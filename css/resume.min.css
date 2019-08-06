@@ -8,7 +8,6 @@
   background-color: #407088 !important;
 }
 
-
 .text-primary {
   color: #407088 !important;
 }
@@ -17,6 +16,10 @@
   color: #407088 !important;
 }
 
-a {
+.projectLink {
   color: #407088 !important;
 }
+
+/* .list-inline-item:hover {
+   color:#407088
+} */
