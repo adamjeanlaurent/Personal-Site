@@ -19,3 +19,11 @@
 .projectLink {
   color: #407088 !important;
 }
+
+.skillsIconsHover:hover {
+  color: #407088 !important;
+}
+
+.socialIconsHover:hover {
+  background-color: #407088 !important;
+}
