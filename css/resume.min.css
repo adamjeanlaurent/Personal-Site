@@ -27,3 +27,7 @@
 .socialIconsHover:hover {
   background-color: #407088 !important;
 }
+
+#greyColor {
+  color: #868e96 !important;
+}
