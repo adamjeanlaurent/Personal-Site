@@ -31,3 +31,9 @@
 #greyColor {
   color: #868e96 !important;
 }
+
+
+
+ul {
+  display: inline-block;
+}
