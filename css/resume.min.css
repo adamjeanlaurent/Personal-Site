@@ -32,12 +32,10 @@
   color: #868e96 !important;
 }
 
-
-
 ul {
   display: inline-block;
 }
 
 .location {
-  color: #696464;
+  color: #696464 !important;
 }
